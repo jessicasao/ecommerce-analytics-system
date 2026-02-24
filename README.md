@@ -1,4 +1,4 @@
-# 🚀 雙渠道電商財務與客戶分析自動化系統
+# 🚀 「Python 電商數據分析 | Shopify Pinkoi 整合」
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Pandas](https://img.shields.io/badge/pandas-1.3.0-green.svg)
